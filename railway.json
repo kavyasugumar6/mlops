@@ -1,9 +1,0 @@
-{
-  "build": {
-    "builder": "Docker"
-  },
-  "deploy": {
-    "numInstances": 1,
-    "restartPolicyType": "ON_FAILURE"
-  }
-}
