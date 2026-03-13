@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.dist-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# MLflow tracking output
+mlruns/
+
+# OS / editor
+.DS_Store
+.vscode/
+.qodo/
+
+# Notebooks
+.ipynb_checkpoints/
